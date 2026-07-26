@@ -15,7 +15,7 @@
     <td width="55%" valign="top" style="border: none;">
       <h3 dir="auto">🚀 About Me</h3>
       <ul dir="auto">
-        <li>🎓 B.E. in <b>Computer Science Engineering</b> at NIE Mysore <i>(CGPA: 8.04)</i></li>
+        <li>🎓 B.E. in <b>Computer Science Engineering</b> at NIE Mysore <i>(CGPA: 8.64)</i></li>
         <li>🔭 Building <b>HealthTech & IoT Projects</b> like <b>AetherCare</b> <i>(94% accuracy with ESP8266 & LSTM)</i></li>
         <li>💻 Developing scalable platforms like <b>Healix</b> <i>(JWT, Razorpay API, 100% transaction consistency)</i></li>
         <li>🌱 Learning <b>Advanced DSA, Deep Learning & System Architecture</b></li>
