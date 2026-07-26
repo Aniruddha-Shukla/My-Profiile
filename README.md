@@ -80,10 +80,10 @@
 
 <div align="center">
   <a href="https://github.com/Aniruddha-Shukla" target="_blank">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Shukla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Shukla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&v=1" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Aniruddha-Shukla" target="_blank">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Shukla&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Shukla&theme=tokyonight&hide_border=true&border_radius=15&v=1" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -91,7 +91,7 @@
 
 <div align="center">
   <a href="https://github.com/Aniruddha-Shukla" target="_blank">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniruddha-Shukla&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniruddha-Shukla&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&v=1" alt="Top Languages" />
   </a>
 </div>
 
