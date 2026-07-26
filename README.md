@@ -59,7 +59,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aniruddha-shukla" target="_blank">
+  <a href="https://linkedin.com/in/aniruddhashuklanie" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" style="margin: 0 15px;" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Aniruddha-Shukla" target="_blank">
